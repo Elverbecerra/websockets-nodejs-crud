@@ -1,0 +1,10 @@
+body {
+  height: 100vh;
+  background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/infobae/E5LCIJS5YJFYJETEWPJVESYB7Q.jpg);
+ background-repeat: no-repeat;
+}
+.titu{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+  background-color: aqua;
+}
